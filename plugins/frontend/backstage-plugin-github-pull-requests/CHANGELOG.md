@@ -1,5 +1,11 @@
 # @roadiehq/backstage-plugin-github-pull-requests
 
+## 3.7.1
+
+### Patch Changes
+
+- bcf3ebf: Add missing alpha exports for new frontend system
+
 ## 3.7.0
 
 ### Minor Changes
